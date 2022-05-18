@@ -1,0 +1,40 @@
+
+
+
+[
+    {
+        "id": 1,
+        "nombre": "Mozzarella",
+        "peso": "Cilindro de 1k.",
+        "precio": 500,
+        "stock": 300,
+        "img": "mozza.png"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Mozzarella",
+        "peso": "Cilindro de 2k.",
+        "precio": 900,
+        "stock": 30,
+        "img": "mozza.png"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Mozzarella",
+        "peso": "Cilindro de 3k.",
+        "precio": 1300,
+        "stock": 30,
+        "img": "mozza.png"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Mozzarella",
+        "peso": "Cilindro de 6k.",
+        "precio": 5800,
+        "stock": 30,
+        "img": "mozza.png"
+    }
+]
